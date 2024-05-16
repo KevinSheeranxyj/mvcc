@@ -1,2 +1,2 @@
 # mvcc
-MVCC practice in rust
+MySQL MVCC practice in rust
