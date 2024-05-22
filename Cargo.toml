@@ -1,0 +1,12 @@
+[package]
+name = "mvcc-v1"
+version = "0.1.0"
+edition = "2021"
+authors = ["kevin.xie"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lazy_static = "1.4.0"
+bincode = "2.0.0-rc.3"
+serde = {version = "1.0.200", features = ["derive"]}
+
